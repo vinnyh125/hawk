@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.hawk-wrapper {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  border: 1px solid black;
+  flex: 1;
+  font-size: 5rem;
+}
+
+.hawk-1 {
+  border: 1px black solid;
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.hawk-2 {
+  border: 1px black solid;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
